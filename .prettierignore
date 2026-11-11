@@ -1,0 +1,26 @@
+
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+coverage/
+
+# Generated files
+*.tsbuildinfo
+auto-imports.d.ts
+components.d.ts
+
+# Package manager
+pnpm-lock.yaml
+
+# Tool caches
+.cache/
+.vite/
+.turbo/
+
+# Environment files
+.env
+.env.*
+!.env.example
