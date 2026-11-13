@@ -4,3 +4,6 @@ packages:
 
 catalog:
   typescript: 6.0.2
+
+onlyBuiltDependencies:
+  - esbuild
